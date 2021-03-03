@@ -14,7 +14,7 @@ export default {
                 if (!user) throw new ApolloError('Incorrect username', 401);
                 const passwordMatch = await compare(password, user.password);
                 if (!passwordMatch) throw new ApolloError('Incorrect password', 401);
-                let token = provideToken(user)
+                const token = provideToken(user)
                 return { user, token };
             } catch (err) {
                 if (err.errors) throw new ApolloError(err.errors, 400);
