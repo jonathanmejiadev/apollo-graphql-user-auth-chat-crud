@@ -8,16 +8,21 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installation 🔧
 
-- Clone the repo
-  ```sh
-  git clone https://github.com/jonathanmejia-ar/apollo-graphql-user-auth-chat-crud.git
-  ```
-- Install NPM packages
-  ```sh
-  npm install
-  ```
+1. Clone the repo
 
-### Usage 💻
+```sh
+git clone https://github.com/jonathanmejia-ar/apollo-graphql-user-auth-chat-crud.git
+```
+
+2. Install NPM packages
+
+```sh
+npm install
+```
+
+1. Read env.example and create a .env file with your environment variables.
+
+### Run app 💻
 
 - Start local server
   ```sh
