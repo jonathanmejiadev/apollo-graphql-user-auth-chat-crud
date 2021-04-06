@@ -30,6 +30,7 @@ These instructions will get you a copy of the project up and running on your loc
 - [graphql](https://www.npmjs.com/package/graphql) - Query Language for APIs created by Facebook.
 - [apollo-server-express](https://www.npmjs.com/package/apollo-server-express) - Express and Connect integration of GraphQL Server.
 - [esm](https://www.npmjs.com/package/esm) - babel-less, bundle-less ECMAScript module loader.
+- [bcryptjs](https://www.npmjs.com/package/bcryptjs) - Library to help you hash passwords.
 - [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken) - Open JSON-based standard proposed by IETF for token creations.
 - [yup](https://www.npmjs.com/package/yup) - Yup is a JavaScript schema builder for value parsing and validation.
 
