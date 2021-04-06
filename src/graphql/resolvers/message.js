@@ -1,5 +1,5 @@
 import { ApolloError } from 'apollo-server-express';
-import chatMessages from '../../utils/chatMesages';
+import chatMessages from '../../utils/chatMessages';
 
 export default {
     Query: {
