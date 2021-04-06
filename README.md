@@ -22,7 +22,7 @@ These instructions will get you a copy of the project up and running on your loc
   npm run dev
   ```
 
-### Dependencies 🛠️
+## Dependencies 🛠️
 
 - [express](https://www.npmjs.com/package/express) - NodeJs Framework used for handling and routing HTTP requests.
 - [graphql](https://www.npmjs.com/package/graphql) - Query Language for APIs created by Facebook.
