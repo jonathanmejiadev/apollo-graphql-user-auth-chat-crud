@@ -1,5 +1,7 @@
 # Apollo GraphQL - User Authentication & Chat CRUD
 
+NodeJs JavaScript Backend Project using Apollo GraphQL with Express for user authentication and chat crud, using jsonwebtoken and validations.
+
 ## Getting Started 🚀
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
