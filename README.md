@@ -20,7 +20,7 @@ git clone https://github.com/jonathanmejia-ar/apollo-graphql-user-auth-chat-crud
 npm install
 ```
 
-1. Read env.example and create a .env file with your environment variables.
+3. Read `env.example` and create a `.env` file with your environment variables.
 
 ### Run app 💻
 
