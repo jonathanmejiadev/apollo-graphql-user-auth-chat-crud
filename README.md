@@ -29,6 +29,10 @@ npm install
   npm run dev
   ```
 
+## GraphQL API Documentation
+
+- [Documentation](docs/graphql-doc.md)
+
 ## Dependencies 🛠️
 
 - [express](https://www.npmjs.com/package/express) - NodeJs Framework used for handling and routing HTTP requests.
