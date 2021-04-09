@@ -4,7 +4,7 @@ NodeJs JavaScript Project with Apollo GraphQL Server and Express for user authen
 
 ## Getting Started 🚀
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+These instructions will get you a copy of the project up and running on your local machine.
 
 ### Installation 🔧
 
